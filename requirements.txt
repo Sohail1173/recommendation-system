@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit-learn
+notebook
+PyYAML
+
+-e . 
